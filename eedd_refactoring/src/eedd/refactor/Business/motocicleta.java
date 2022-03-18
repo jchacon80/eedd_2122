@@ -1,4 +1,4 @@
-package com.test.refactoring.Business;
+package eedd.refactor.Business;
 
 public class motocicleta {
 	

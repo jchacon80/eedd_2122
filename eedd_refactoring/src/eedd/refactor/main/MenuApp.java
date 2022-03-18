@@ -1,11 +1,11 @@
-package com.test.refactoring.main;
+package eedd.refactor.main;
 
 import java.util.Random;
 import java.util.Scanner;
 
-import com.test.refactoring.Business.Camion;
-import com.test.refactoring.Business.Coche;
-import com.test.refactoring.utils.Utils;
+import eedd.refactor.Business.Camion;
+import eedd.refactor.Business.Coche;
+import eedd.refactor.utils.Utils;
 
 public class MenuApp {
 
